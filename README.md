@@ -1,4 +1,5 @@
 📘 Exam Hall Management System
+
 📌 Project Overview
 
 The Exam Hall Management System is a web-based application developed using Python and Streamlit that helps automate the process of allocating students and staff to exam halls.
@@ -23,9 +24,10 @@ Pandas
 SQLite
 ReportLab
 Excel (Data input)
-📷 Screenshots
+📷 Screenshots:
 
-(Add screenshots of your website here)
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/460e78e3-9bb3-4164-85ef-7430cd3a78ed" />
+
 
 Example:
 
